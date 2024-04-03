@@ -43,5 +43,5 @@ I'm a <b>[your department/year]</b> student at Lords Institute of Engineering & 
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-YourName-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faheem-ahmed-82b00b274/)](https://www.linkedin.com/in/faheem-ahmed-82b00b274/)
-[![GitHub](https://img.shields.io/badge/-YourUsername-0000FF?style=flat&logo=GitHub&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)
+[![Linkedin](https://img.shields.io/badge/-FaheemAhmed-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faheem-ahmed-82b00b274/)](https://www.linkedin.com/in/faheem-ahmed-82b00b274/)
+[![GitHub](https://img.shields.io/badge/-FaheemAhmed-0000FF?style=flat&logo=GitHub&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)
