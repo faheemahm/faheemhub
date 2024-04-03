@@ -1,6 +1,5 @@
 # faheemhub
 
-## [Your Name]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
